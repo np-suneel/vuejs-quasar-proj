@@ -1,0 +1,87 @@
+{
+  "employees": [
+    {
+      "id": "01127",
+      "name": "Jotur"
+    },
+    {
+      "id": "01125",
+      "name": "Hagrid"
+    },
+    {
+      "id": "01129",
+      "name": "Armagd"
+    },
+    {
+      "id": "01131",
+      "name": "Lyfjaber"
+    }
+  ],
+  "ideas": [
+    {
+      "title": "trial 1",
+      "descrip": "sdsdsdsd",
+      "type": "Idea",
+      "tags": "#tech #coding ",
+      "redate": "15-09-21 10:12:01",
+      "votes": [
+        "01127",
+        "01131",
+        "01129"
+      ],
+      "id": 1
+    },
+    {
+      "title": "trial 2",
+      "descrip": "hhhh555h5",
+      "type": "Challenge",
+      "tags": "#feature #security ",
+      "redate": "15-09-21 10:12:10",
+      "votes": [
+        "01131",
+        "01127"
+      ],
+      "id": 2
+    },
+    {
+      "title": "trial 3",
+      "descrip": "h45h4h4",
+      "type": "Idea",
+      "tags": "#coding #security ",
+      "redate": "15-09-21 10:12:30",
+      "votes": [
+        "01125"
+      ],
+      "id": 3
+    },
+    {
+      "title": "dgadfg",
+      "descrip": "sfdg443gf",
+      "type": "Idea",
+      "tags": "#feature #tech #coding #security ",
+      "redate": "15-09-21 10:37:25",
+      "votes": [],
+      "id": 4
+    },
+    {
+      "title": "hjdgjgjgfhj",
+      "descrip": "5j5j65jhghj",
+      "type": "Challenge",
+      "tags": "#tech ",
+      "redate": "15-09-21 23:33:41",
+      "votes": [
+        "01125"
+      ],
+      "id": 5
+    },
+    {
+      "title": "fghfghdf",
+      "descrip": "hdfhdfhdfh",
+      "type": "Idea",
+      "tags": "#feature #tech ",
+      "redate": "15-09-21 23:42:40",
+      "votes": [],
+      "id": 6
+    }
+  ]
+}
